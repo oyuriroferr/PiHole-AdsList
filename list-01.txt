@@ -1,1 +1,1 @@
-http://z.cdn.trafficbass.com/
+0.0.0.0 z.cdn.trafficbass.com
