@@ -1,2 +1,6 @@
+# Bets
 0.0.0.0 trafficbass.com
 0.0.0.0 1xbet.com
+
+# Ads
+0.0.0.0 adclick.g.doubleclick.net
